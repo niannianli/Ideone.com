@@ -30,3 +30,9 @@ characters, and that you are given the
 please usea character array so that 
 you can perform this operation inplace.)
 http://ideone.com/EXO0vn
+
+==
+1.5: Implement a method to perform basic string compression using the counts
+of repeated characters. For example, the string a a b c c c c c a a a would become a2blc5a3. If the "compressed" string would not become smaller than the original string, your method should return the original string.
+http://ideone.com/K7xDgt
+http://ideone.com/bG9s1H
