@@ -36,3 +36,10 @@ http://ideone.com/EXO0vn
 of repeated characters. For example, the string a a b c c c c c a a a would become a2blc5a3. If the "compressed" string would not become smaller than the original string, your method should return the original string.
 http://ideone.com/K7xDgt
 http://ideone.com/bG9s1H
+
+==
+1.6: Given an image represented by an NxN matrix, 
+where each pixel in the image is 4
+bytes, write a method to rotate the image by 90 degrees. 
+Can you do this in place?
+http://ideone.com/TSU0qN
