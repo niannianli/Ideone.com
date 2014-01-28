@@ -56,3 +56,13 @@ http://ideone.com/I15PoS
  a rotation of si using only onecalltoisSubstring
  (e.g., "waterbottLe" is a rotation of "erbot- tLewat").
 http://ideone.com/AOfwuY
+
+==
+2.1: Write code to remove duplicates from an unsorted linked list. FOLLOW UP
+How would you solve this problem if a temporary buffer is not allowed?
+http://ideone.com/3Hv6Rb
+
+==
+2.2: Implement an algorithm to 
+find the kth to last element of a singly linked list.
+http://ideone.com/dyuz5o
