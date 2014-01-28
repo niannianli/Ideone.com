@@ -66,3 +66,9 @@ http://ideone.com/3Hv6Rb
 2.2: Implement an algorithm to 
 find the kth to last element of a singly linked list.
 http://ideone.com/dyuz5o
+
+==
+3.1: Describe how you could use a single array to implement three stacks.
+http://ideone.com/VsHFxZ
+http://ideone.com/cpajdM
+http://ideone.com/9CyGlN
