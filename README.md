@@ -94,3 +94,7 @@ EXAMPLE:
 Input:N=16000000000, M=10011, i =2, j =6 Output: N = 10001001100
 http://ideone.com/oaI4hu
 
+==
+7.3: Given two lines on a Cartesian plane, determine whether the two lines would inter-
+sect.
+http://ideone.com/VMwGsg
