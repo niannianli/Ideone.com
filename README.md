@@ -102,3 +102,10 @@ http://ideone.com/VMwGsg
 ==
 8.1: Design the data structures for a generic deck of cards. Explain how you would
 subclass the data structures to implement blackjack.
+
+==
+9.1: A child is running up a staircase with n steps, 
+and can hop either 1step, 2 steps, or 3 steps 
+ at a time. Implement a method to count 
+ how many possible ways the child can run up the stairs.
+http://ideone.com/scg2PN
