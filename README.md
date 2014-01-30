@@ -98,3 +98,7 @@ http://ideone.com/oaI4hu
 7.3: Given two lines on a Cartesian plane, determine whether the two lines would inter-
 sect.
 http://ideone.com/VMwGsg
+
+==
+8.1: Design the data structures for a generic deck of cards. Explain how you would
+subclass the data structures to implement blackjack.
